@@ -1,0 +1,13 @@
+ src/
+// ├── screens/
+// │   ├── SplashScreen.js
+// │   ├── OnboardingScreen.js
+// │   ├── HomeScreen.js
+// │   ├── BookingScreen.js
+// │   ├── ChargingScreen.js
+// │   └── PaymentScreen.js
+// ├── components/
+// │   └── PillButton.js
+// ├── navigation/
+// │   └── AppNavigator.js
+// └── App.js
